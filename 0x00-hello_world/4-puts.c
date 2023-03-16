@@ -1,10 +1,11 @@
 #include <stdio.h>
 /**
-*main- this is the main function
-*return: always 0
-*/
+ * main - a main function to execute the input
+ *
+ * Return: Is always 0 when the program is executed successfully
+ */
 int main(void)
 {
-        puts("Programming is like building a multilingual puzzle\n");
+        puts("\"Programming is like building a multilingual puzzle");
         return(0);
 }
