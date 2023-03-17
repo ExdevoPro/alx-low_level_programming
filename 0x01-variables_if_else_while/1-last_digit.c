@@ -21,9 +21,9 @@ int main(void)
 	if (m>5)
 		printf("Last digit of %d is %d and is greater than s", n,m);
 	else if(m==0)
-		printf("last didgit of %d is %d an is zero", n,m);
+		printf("last digit of %d is %d an 0", n,m);
 	else if(m<6 && m !=0)
-		printf("last digit of %d and is %d is less tha six and not zero", n, m);
+		printf("last digit of %d and is %d is less than 6 and not 0", n, m);
 	printf("\n");
 
 	return (0);
